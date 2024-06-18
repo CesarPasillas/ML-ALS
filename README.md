@@ -7,7 +7,6 @@
 [![Autor](https://img.shields.io/badge/Author-Cesar_"Aran"_Pasillas-black)](https://programmingsquirrel.wordpress.com/about-me/)
 
 
-
 ## Technologies
 - **Java 11**
 - **Apache Spark 3.3.0**
@@ -52,3 +51,7 @@ In recommendation systems, the ALS model is used to predict a user's preference 
 ### Implementation in Apache Spark MLlib
 
 In Apache Spark, MLlib (Machine Learning Library) provides an efficient implementation of the ALS model for distributed processing of large datasets. It allows training ALS models using Spark's Resilient Distributed Datasets (RDDs) and can be easily scaled across distributed computing clusters.
+
+<a href="https://programmingsquirrel.wordpress.com/">
+  <img src="https://programmingsquirrel.wordpress.com/wp-content/uploads/2023/05/logo_ardilla_programmer_blue.png" alt="Programmer Squirrel" width="150" height="150">
+</a>
