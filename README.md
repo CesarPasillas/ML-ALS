@@ -11,6 +11,8 @@
 - **Java 11**
 - **Apache Spark 3.3.0**
 
+## Description
+This project is a basic example of Machine Learning with Java, this project uses the ALS Model.
 
 ## What is the ALS Model?
 
